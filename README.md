@@ -200,4 +200,4 @@ jupyter notebook notebooks/model_training.ipynb
 
 ## Лицензия
 
-MIT
+Этот проект распространяется под лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

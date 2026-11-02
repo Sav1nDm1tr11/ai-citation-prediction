@@ -11,6 +11,8 @@ build/
 
 # Environment
 .env
+.clearml.conf
+.clearml/
 .venv/
 venv/
 
